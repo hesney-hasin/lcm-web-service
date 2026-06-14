@@ -31,7 +31,7 @@ GET /hesneyhasimaliha_gmail_com?x=0&y=5   →  NaN
 GET /hesneyhasimaliha_gmail_com?x=2.5&y=6 →  NaN
 GET /hesneyhasimaliha_gmail_com?x=abc&y=6 →  NaN
 ```
-
+## Link- [Render Live link](https://lcm-web-service-2q74.onrender.com/hesneyhasimaliha_gmail_com?x={}&y={})
 ## How it works
 
 LCM is computed using the identity:
